@@ -1,0 +1,7 @@
+Questions
+
+1) Terminal is essentially the taskboard of the computer, where you can not only explore and locate folders and items in the computer but where you can also create them and execute tasks. Through the use of commands, Terminal allows you to operate the machine without interacting with the GUI of a computer. This allows us to directly install programs, create and replicate repositories, and change settings that the GUI doesn’t inherently allow you to change. While doing all of these things, the Terminal keeps track of what you’ve done and where you are so that you can keep track of any changes made. All in all, the Terminal is a great way to manage and track repositories. 
+
+2) Git is a system developed to allow devs to track changes made in the code, while GitHub is an online system which hosts repositories created in Git.
+
+3) We use GitHub so that if we make any changes to our code, we’re able to not only view what changes were made but also save versions of our code in a single repository 
